@@ -5,10 +5,10 @@
   "[python]": {
     "editor.defaultFormatter": "charliermarsh.ruff",
     "editor.formatOnSave": true
+  },
+  "files.exclude": {
+    "**/__init__.py": true,
+    "**/*.pyc": true,
+    "**/__pycache__": true
   }
-  // "files.exclude": {
-  //   "**/__init__.py": true,
-  //   "**/*.pyc": true,
-  //   "**/__pycache__": true
-  // }
 }
