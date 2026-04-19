@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/Users/igortiburciocavalcanti/.local/share/mise/installs/python/3.14.3/bin/python",
+  "editor.formatOnSave": true,
+  "editor.semanticHighlighting.enabled": true,
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true
+  }
+}
